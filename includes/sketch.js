@@ -206,7 +206,7 @@ function draw() {
         case '0':
             background(255);
             fill(0);
-            text('jeremymuller.com/blackwater', width/2, height/2-325);
+            text('blackwater.jeremymuller.com', width/2, height/2-325);
             // qrcode.loadPixels();
             // for (var y = 0; y < qrcode.width; y++) {
             //     for (var x = 0; x < qrcode.height; x++) {
